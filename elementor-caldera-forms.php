@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Elementor Caldera Forms
+ * Plugin Name: Caldera Forms styler for Elementor
  * Description: Caldera Forms styler for elementor. Design the form visually with elementor.
  * Plugin URI: https://essential-addons.com/elementor/caldera-forms
  * Author: Essential Addons

@@ -1,4 +1,4 @@
-=== Elementor Caldera Forms ===
+=== Caldera Forms styler for Elementor Page Builder ===
 Contributors: re_enter_rupok, Asif2BD, robicse11128, codetic
 Tags: elementor, Caldera Forms, Caldera Forms styler, elementor addon, elementor widget
 Requires at least: 4.0
@@ -53,6 +53,7 @@ Caldera Forms styler for Elementor page builder. Desing beatiful Contact Form us
 * [Flip Carousel](https://essential-addons.com/elementor/flip-carousel/)
 * [Interactive Cards](https://essential-addons.com/elementor/interactive-cards/)
 * [Content Timeline](https://essential-addons.com/elementor/content-timeline/)
+* [Table](https://essential-addons.com/elementor/table/)
 
 
 == Installation ==
