@@ -41,7 +41,7 @@ add_action('elementor/widgets/widgets_registered','add_eael_caldera_forms');
  */
 function eael_caldera_forms_enqueue() {
 
-   wp_enqueue_style('essential_addons_elementor-cf7-css',EAEL_CALDERA_FORMS_URL.'assets/css/elementor-caldera-forms.css');
+   wp_enqueue_style('essential_addons_elementor-caldera-form-css',EAEL_CALDERA_FORMS_URL.'assets/css/elementor-caldera-form.css');
 
 }
 add_action( 'wp_enqueue_scripts', 'eael_caldera_forms_enqueue' );
